@@ -1,4 +1,33 @@
+![Screenshot 2025-04-03 020625](https://github.com/user-attachments/assets/7ae782a1-3a95-4240-ab75-8e1375d545ae)
+![Screenshot 2025-04-03 020611](https://github.com/user-attachments/assets/e7b44ff7-1794-46b8-ace5-a5621cc602da)
 # Getting Started with Create React App
+Overview
+
+Profile Mapper is a web application built using React.js that allows users to:
+
+View a list of user profiles.
+
+Explore addresses interactively on a map.
+
+Features
+
+✅ Profile Display: View profiles with name, image, and description.
+✅ Interactive Map: See a profile's location on Google Maps.
+✅ Search & Filter: Find profiles based on name or location.
+✅ Responsive Design: Works on desktop and mobile devices.
+✅ Error Handling: Handles invalid data and errors gracefully.
+✅ Loading Indicators: Provides feedback when loading data.
+
+Tech Stack
+
+Frontend: React.js, JSX, Bootstrap
+
+Maps Integration: Google Maps API
+
+State Management: React Hooks (useState, useEffect)
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
